@@ -1,5 +1,0 @@
-!pip install dnspython
-!pip install pymongo[srv]
-!pip install Pillow
-!pip install qrcode
-!pip install tabulate
